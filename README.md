@@ -15,13 +15,13 @@ The dataset consists of EEG brainwave recordings that capture the electrical act
 - **Features:** 2,549 features including statistical measures and **FFT (Fast Fourier Transform)** bins.
 - **Labels:** 3 Emotional Classes (Neutral, Positive, Negative).
 
-#### 🛠️ Methodology & Technical Stack
+#### Methodology & Technical Stack
 - **Preprocessing:** Label Encoding, Column Normalization, and Signal Cleaning.
 - **Feature Exploration:** Frequency distribution analysis using FFT to identify neural patterns.
 - **Model:** Random Forest Classifier (serving as a robust baseline for high-dimensional data).
 - **Architecture:** Implemented using **Object-Oriented Programming (OOP)** principles in Python for scalability.
 
-#### 📈 Results & Performance
+#### Results & Performance
 The model currently achieves an accuracy of **~98%** in distinguishing emotional states on the test set, demonstrating the high separability of neural frequency patterns.
 
 
