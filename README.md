@@ -39,6 +39,5 @@ The model currently achieves an accuracy of **~98%** in distinguishing emotional
 ## Future Research Goals
 - Implementation of **Deep Learning** architectures (LSTM/CNN) for raw time-series EEG data.
 - Exploring **Brain-Computer Interface (BCI)** for real-time robotic control.
-- Preparation for advanced studies in **Medical Informatics / Neuroinformatics** at Kyoto University.
 
 ---
