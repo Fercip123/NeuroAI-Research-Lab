@@ -6,7 +6,7 @@ This repository is dedicated to the exploration, experimentation, and research a
 
 ## Project Portfolio
 
-### 1. EEG Emotion Decoding 🎭
+### 1. EEG Emotion Decoding 
 This project aims to classify human emotional states (Positive, Negative, Neutral) from brainwave activity using EEG signal data.
 
 #### Dataset
