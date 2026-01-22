@@ -24,15 +24,7 @@ The dataset consists of EEG brainwave recordings that capture the electrical act
 #### Results & Performance
 The model currently achieves an accuracy of **~98%** in distinguishing emotional states on the test set, demonstrating the high separability of neural frequency patterns.
 
-
-
----
-
-## Getting Started
-1. Clone this repository.
-2. Ensure the `emotions.csv` file is placed in the project directory.
-3. Install dependencies: `pip install pandas scikit-learn matplotlib`
-4. Run the decoder: `python 01-EEG-Emotion-Decoding/emotions.py`
+_new projects will be added over time_
 
 ---
 
